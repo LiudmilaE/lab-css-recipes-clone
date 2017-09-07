@@ -50,7 +50,7 @@ hr {
 
 #main-header {
   background-color: grey;
-  background-image: url('/home/liuda/code/labs/lab-css-recipes-clone/starter-code/apple-pie-starter-code/images/apple-pie.jpg');
+  background-image: url('../images/apple-pie.jpg');
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: cover;
